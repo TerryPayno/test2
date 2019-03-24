@@ -1,0 +1,13 @@
+C:\Users\jwepa\Desktop\New Project\hellojames\MainTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jwepa\Desktop\New Project\hellojames\MainTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jwepa\Desktop\New Project\hellojames\MainTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jwepa\Desktop\New Project\hellojames\MainTest\bin\Debug\netcoreapp2.1\MainTest.deps.json
+C:\Users\jwepa\Desktop\New Project\hellojames\MainTest\bin\Debug\netcoreapp2.1\MainTest.runtimeconfig.json
+C:\Users\jwepa\Desktop\New Project\hellojames\MainTest\bin\Debug\netcoreapp2.1\MainTest.runtimeconfig.dev.json
+C:\Users\jwepa\Desktop\New Project\hellojames\MainTest\bin\Debug\netcoreapp2.1\MainTest.dll
+C:\Users\jwepa\Desktop\New Project\hellojames\MainTest\bin\Debug\netcoreapp2.1\MainTest.pdb
+C:\Users\jwepa\Desktop\New Project\hellojames\MainTest\obj\Debug\netcoreapp2.1\MainTest.csproj.CoreCompileInputs.cache
+C:\Users\jwepa\Desktop\New Project\hellojames\MainTest\obj\Debug\netcoreapp2.1\MainTest.AssemblyInfoInputs.cache
+C:\Users\jwepa\Desktop\New Project\hellojames\MainTest\obj\Debug\netcoreapp2.1\MainTest.AssemblyInfo.cs
+C:\Users\jwepa\Desktop\New Project\hellojames\MainTest\obj\Debug\netcoreapp2.1\MainTest.dll
+C:\Users\jwepa\Desktop\New Project\hellojames\MainTest\obj\Debug\netcoreapp2.1\MainTest.pdb

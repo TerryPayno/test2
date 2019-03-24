@@ -1,0 +1,5 @@
+C:\Users\jwepa\Desktop\New Project\hellojames\SharedObject3\bin\Debug\SharedObject3.dll
+C:\Users\jwepa\Desktop\New Project\hellojames\SharedObject3\bin\Debug\SharedObject3.pdb
+C:\Users\jwepa\Desktop\New Project\hellojames\SharedObject3\obj\Debug\SharedObject3.csproj.CoreCompileInputs.cache
+C:\Users\jwepa\Desktop\New Project\hellojames\SharedObject3\obj\Debug\SharedObject3.dll
+C:\Users\jwepa\Desktop\New Project\hellojames\SharedObject3\obj\Debug\SharedObject3.pdb
